@@ -14,6 +14,6 @@ To achieve this goal, I first processed the data to ensure it was ready for anal
 
 The purpose of this sample project was to look at two prepaid plans to determine which brings in more revenue to inform the advertising budget. As a first step, I preprocessed the data to ensure the data was ready for analysis. I then conducted statistical analysis to determine if there is a significant difference between the means of each plan's revenue data.
 
-**Sample Project: Analyzing Video Game Sales**
+**Sample Project: Analyzing Video Game Sales (Integrated Project)**
 
 The purpose of this sample project was to analyze video game sales to determine what factors influence the success of particular games. After preprocessing the data, I analyzed the data to look at the impact of release year, genre, user ratings and expert ratings on sale performance over time. 
