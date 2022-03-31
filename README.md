@@ -1,5 +1,5 @@
 # Description of Sample Projects
-This repository contains sample projects that I have completed as part of my Practicum by Yandex Data Science bootcamp.  
+This repository contains sample projects using Python that I have completed as part of my Practicum by Yandex Data Science bootcamp.  
 
 **Sample Project: Analyzing Borrowers’ Risk of Defaulting (Focus on Data Preprocessing)** 
 
